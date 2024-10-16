@@ -1,5 +1,11 @@
 > 原文：[[https://electronicbookreview.com/essay/writing-facade-a-case-study-in-procedural-authorship/]]
 
+## 引语
+Façade是一个由大量对话片段在戏剧管理器的组织下根据玩家输入进行反应从而呈现一段完整剧情流程的实验性叙事游戏。由作者所撰写的文章（https://electronicbookreview.com/essay/writing-facade-a-case-study-in-procedural-authorship/）详细介绍了他们创造这一体验所使用的方法，并进行了反思。我对其中有参考性的中后部分在AI辅助下进行了翻译。
+视频地址：https://www.bilibili.com/video/BV1NZ4y1p7os/?spm_id_from=333.337.search-card.all.click
+游戏下载地址（免费，英文）：https://www.playablstudios.com/facade
+
+
 ## 3.4 Richness Through Coherent Intermixing  
 3.4 通过连贯的交织混合实现丰富性
 
